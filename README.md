@@ -1,8 +1,17 @@
-# React + Vite
+# Proyecto de Planificación de Viajes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación React construida con Vite para ayudar a los usuarios a planificar y organizar sus viajes, ofreciendo recomendaciones personalizadas de alojamientos, actividades y opciones gastronómicas.
 
-Currently, two official plugins are available:
+## Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Interfaz intuitiva para la planificación de viajes.
+- Integración con la API de Google Gemini para recomendaciones personalizadas.
+- Gestión de alojamientos, actividades y opciones gastronómicas.
+- Ajuste de recomendaciones según presupuesto e intereses del usuario.
+
+## Tecnologías Utilizadas
+
+- **React**: Biblioteca para construir interfaces de usuario.
+- **Vite**: Herramienta de construcción y desarrollo rápido.
+- **JavaScript (ES6+)**: Lenguaje de programación.
+- **CSS**: Estilo y diseño de la aplicación.
